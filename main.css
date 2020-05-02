@@ -1,0 +1,37 @@
+body{
+    background-color: white
+}
+
+.container{
+    margin: 80px;
+    
+}
+
+button{
+color: white;
+background-color: rgba(0, 0, 0, 0.884);
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left:  70px;
+padding: 10px 20px;
+border-radius: 10px;
+outline: none;
+font-size: 13px;
+letter-spacing: 0.5px;
+}
+button:hover{
+    transform: scale(1.04);
+    background-color: white;
+    color: black;
+    font-weight: 400;
+}
+h2{
+    color: black;
+    letter-spacing: 0.4px;
+    margin-top: 40px;
+    margin-left: 280px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 380px;
+}
+
